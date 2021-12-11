@@ -1,8 +1,8 @@
 simplyCountdown('#count-down', {
-  year: 2021, // required
-  month: 10, // required
-  day: 20, // required
-  hours: 12, // Default is 0 [0-23] integer
+  year: 2022, // required
+  month: 1, // required
+  day: 1, // required
+  hours: 0, // Default is 0 [0-23] integer
   minutes: 0, // Default is 0 [0-59] integer
   seconds: 0, // Default is 0 [0-59] integer
   words: { //words displayed into the countdown
